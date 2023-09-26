@@ -39,7 +39,7 @@ p = input('Enter a pet you would like to have: ')
 
 print('your name is ' + n + ' and your favourite colour is ' + c + ' and you like to have ' + p + ' as a pet.')
 
-name='Vinayak'
+name='Shrishti'
 subject='aws'
 dream='to live peacefully within yourself'
 print('This program is created by {}, currently he is studying {} and one day he would like to {}.'.format(name,subject,dream))
@@ -52,7 +52,7 @@ print(L1[4])
 
 """**List , Tuple, Dictionary and Working with them**"""
 
-t1 = ('Vinayak',55,3.143278,'False')
+t1 = ('Shrishti',55,3.143278,'False')
 print(t1[2],t1[3])
 t1[2] == 54
 print(t1[2])
